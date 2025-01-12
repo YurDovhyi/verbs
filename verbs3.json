@@ -1,0 +1,314 @@
+[
+  {
+    "baseForm": "arise",
+    "pastSimple": "arose",
+    "pastParticiple": "arisen",
+    "translation": "возникать"
+  },
+  {
+    "baseForm": "awake",
+    "pastSimple": "awoke",
+    "pastParticiple": "awoken",
+    "translation": "будить"
+  },
+  {
+    "baseForm": "be",
+    "pastSimple": "was/were",
+    "pastParticiple": "been",
+    "translation": "быть"
+  },
+  {
+    "baseForm": "bear",
+    "pastSimple": "bore",
+    "pastParticiple": "born",
+    "translation": "рожать"
+  },
+  {
+    "baseForm": "beat",
+    "pastSimple": "beat",
+    "pastParticiple": "beaten",
+    "translation": "бить"
+  },
+  {
+    "baseForm": "become",
+    "pastSimple": "became",
+    "pastParticiple": "become",
+    "translation": "становиться"
+  },
+  {
+    "baseForm": "begin",
+    "pastSimple": "began",
+    "pastParticiple": "begun",
+    "translation": "начинать"
+  },
+  {
+    "baseForm": "bend",
+    "pastSimple": "bent",
+    "pastParticiple": "bent",
+    "translation": "гнуть"
+  },
+  {
+    "baseForm": "bet",
+    "pastSimple": "bet",
+    "pastParticiple": "bet",
+    "translation": "держать пари"
+  },
+  {
+    "baseForm": "bind",
+    "pastSimple": "bound",
+    "pastParticiple": "bound",
+    "translation": "связывать"
+  },
+  {
+    "baseForm": "bite",
+    "pastSimple": "bit",
+    "pastParticiple": "bitten",
+    "translation": "кусать"
+  },
+  {
+    "baseForm": "bleed",
+    "pastSimple": "bled",
+    "pastParticiple": "bled",
+    "translation": "кровоточить"
+  },
+  {
+    "baseForm": "blow",
+    "pastSimple": "blew",
+    "pastParticiple": "blown",
+    "translation": "дуть"
+  },
+  {
+    "baseForm": "break",
+    "pastSimple": "broke",
+    "pastParticiple": "broken",
+    "translation": "ломать"
+  },
+  {
+    "baseForm": "breed",
+    "pastSimple": "bred",
+    "pastParticiple": "bred",
+    "translation": "размножаться"
+  },
+  {
+    "baseForm": "bring",
+    "pastSimple": "brought",
+    "pastParticiple": "brought",
+    "translation": "приносить"
+  },
+  {
+    "baseForm": "build",
+    "pastSimple": "built",
+    "pastParticiple": "built",
+    "translation": "строить"
+  },
+  {
+    "baseForm": "burn",
+    "pastSimple": "burnt/burned",
+    "pastParticiple": "burnt/burned",
+    "translation": "гореть"
+  },
+  {
+    "baseForm": "burst",
+    "pastSimple": "burst",
+    "pastParticiple": "burst",
+    "translation": "взрываться"
+  },
+  {
+    "baseForm": "buy",
+    "pastSimple": "bought",
+    "pastParticiple": "bought",
+    "translation": "покупать"
+  },
+  {
+    "baseForm": "catch",
+    "pastSimple": "caught",
+    "pastParticiple": "caught",
+    "translation": "ловить"
+  },
+  {
+    "baseForm": "choose",
+    "pastSimple": "chose",
+    "pastParticiple": "chosen",
+    "translation": "выбирать"
+  },
+  {
+    "baseForm": "cling",
+    "pastSimple": "clung",
+    "pastParticiple": "clung",
+    "translation": "цепляться"
+  },
+  {
+    "baseForm": "come",
+    "pastSimple": "came",
+    "pastParticiple": "come",
+    "translation": "приходить"
+  },
+  {
+    "baseForm": "cost",
+    "pastSimple": "cost",
+    "pastParticiple": "cost",
+    "translation": "стоить"
+  },
+  {
+    "baseForm": "creep",
+    "pastSimple": "crept",
+    "pastParticiple": "crept",
+    "translation": "ползти"
+  },
+  {
+    "baseForm": "cut",
+    "pastSimple": "cut",
+    "pastParticiple": "cut",
+    "translation": "резать"
+  },
+  {
+    "baseForm": "deal",
+    "pastSimple": "dealt",
+    "pastParticiple": "dealt",
+    "translation": "иметь дело"
+  },
+  {
+    "baseForm": "dig",
+    "pastSimple": "dug",
+    "pastParticiple": "dug",
+    "translation": "копать"
+  },
+  {
+    "baseForm": "dive",
+    "pastSimple": "dove/dived",
+    "pastParticiple": "dived",
+    "translation": "нырять"
+  },
+  {
+    "baseForm": "do",
+    "pastSimple": "did",
+    "pastParticiple": "done",
+    "translation": "делать"
+  },
+  {
+    "baseForm": "draw",
+    "pastSimple": "drew",
+    "pastParticiple": "drawn",
+    "translation": "рисовать"
+  },
+  {
+    "baseForm": "dream",
+    "pastSimple": "dreamt/dreamed",
+    "pastParticiple": "dreamt/dreamed",
+    "translation": "мечтать"
+  },
+  {
+    "baseForm": "drink",
+    "pastSimple": "drank",
+    "pastParticiple": "drunk",
+    "translation": "пить"
+  },
+  {
+    "baseForm": "drive",
+    "pastSimple": "drove",
+    "pastParticiple": "driven",
+    "translation": "водить"
+  },
+  {
+    "baseForm": "eat",
+    "pastSimple": "ate",
+    "pastParticiple": "eaten",
+    "translation": "есть"
+  },
+  {
+    "baseForm": "fall",
+    "pastSimple": "fell",
+    "pastParticiple": "fallen",
+    "translation": "падать"
+  },
+  {
+    "baseForm": "feed",
+    "pastSimple": "fed",
+    "pastParticiple": "fed",
+    "translation": "кормить"
+  },
+  {
+    "baseForm": "feel",
+    "pastSimple": "felt",
+    "pastParticiple": "felt",
+    "translation": "чувствовать"
+  },
+  {
+    "baseForm": "fight",
+    "pastSimple": "fought",
+    "pastParticiple": "fought",
+    "translation": "сражаться"
+  },
+  {
+    "baseForm": "find",
+    "pastSimple": "found",
+    "pastParticiple": "found",
+    "translation": "находить"
+  },
+  {
+    "baseForm": "flee",
+    "pastSimple": "fled",
+    "pastParticiple": "fled",
+    "translation": "убегать"
+  },
+  {
+    "baseForm": "fly",
+    "pastSimple": "flew",
+    "pastParticiple": "flown",
+    "translation": "летать"
+  },
+  {
+    "baseForm": "forbid",
+    "pastSimple": "forbade",
+    "pastParticiple": "forbidden",
+    "translation": "запрещать"
+  },
+  {
+    "baseForm": "forget",
+    "pastSimple": "forgot",
+    "pastParticiple": "forgotten",
+    "translation": "забывать"
+  },
+  {
+    "baseForm": "forgive",
+    "pastSimple": "forgave",
+    "pastParticiple": "forgiven",
+    "translation": "прощать"
+  },
+  {
+    "baseForm": "freeze",
+    "pastSimple": "froze",
+    "pastParticiple": "frozen",
+    "translation": "замерзать"
+  },
+  {
+    "baseForm": "get",
+    "pastSimple": "got",
+    "pastParticiple": "gotten",
+    "translation": "получать"
+  },
+  {
+    "baseForm": "give",
+    "pastSimple": "gave",
+    "pastParticiple": "given",
+    "translation": "давать"
+  },
+  {
+    "baseForm": "go",
+    "pastSimple": "went",
+    "pastParticiple": "gone",
+    "translation": "идти"
+  },
+  {
+    "baseForm": "grow",
+    "pastSimple": "grew",
+    "pastParticiple": "grown",
+    "translation": "расти"
+  },
+  {
+    "baseForm": "have",
+    "pastSimple": "had",
+    "pastParticiple": "had",
+    "translation": "иметь"
+  }
+]
